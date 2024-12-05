@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.*;
 
-public class Day1 {
+public class AdventDay1 {
     public static void main(String[] args) {
-        ArrayList<String> fileData = getFileData("src/input");
+        ArrayList<String> fileData = getFileData("src/Day1_input");
         ArrayList<Integer> array1 = new ArrayList<Integer>();
         ArrayList<Integer> array2 = new ArrayList<Integer>();
 
